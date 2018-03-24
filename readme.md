@@ -14,8 +14,10 @@ $ go run client/main.go
 ```
 
 Flags supported for the CLI:
+```
 --list, - Lists the blockchain;
 --add,  - Adds new data to blockchain;
+```
 
 Sample:
 ```
