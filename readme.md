@@ -4,7 +4,7 @@
 
 Run server first:
 ```
-$ cd grpc
+$ cd go-grpc
 $ go run server/main.go
 ```
 
