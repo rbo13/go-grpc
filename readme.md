@@ -1,5 +1,11 @@
 # GO-GRPC
 
+##### COMPILING
+```
+$ cd go-grpc
+$ protoc --go_out=plugins=grpc:. proto/blockchain.proto
+```
+
 ##### RUNNING
 
 Run server first:
